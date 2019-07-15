@@ -1,0 +1,124 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TB6643KQ_8"
+   (description "Bi-CMOS Integrated Circuit Silicon Monolithic")
+   (family "ANA")
+   (package "HSIP7-P-2.54A")
+   (attribute "Datasheet Link" "https://toshiba.semicon-storage.com/info/docget.jsp?did=11271&prodName=TB6643KQ")
+   (attribute "DigiKey Part Number" "TB6643KQ8-ND")
+   (attribute "DigiKey Price/Stock" "https://www.digikey.co.uk/product-detail/en/toshiba-semiconductor-and-storage/TB6643KQ,8/TB6643KQ8-ND/3671295")
+   (attribute "Manufacturer_Name" "Toshiba")
+   (attribute "Manufacturer_Part_Number" "TB6643KQ,8")
+   (gate
+    (symbol "TB6643KQ_8")
+    (pin "IN1" 1 PS)
+    (pin "IN2" 2 PS)
+    (pin "OUT1" 3 PS)
+    (pin "GND" 4 PS)
+    (pin "OUT2" 5 PS)
+    (pin "N.C." 6 NC)
+    (pin "VM" 7 PS)
+   )
+  )
+  (symbol "TB6643KQ_8"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "HSIP7-P-2.54A"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -8.5 1.5)
+      (pt 8.5 1.5)
+      (pt 8.5 -1.5)
+      (pt -8.5 -1.5)
+      (pt -8.5 1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -8.5 1.5)
+      (pt 8.5 1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 8.5 -1.5)
+      (pt -8.5 -1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -7.868 2.141) (pt -7.762 2.141)
+     )
+    )
+   )
+   (leg 1 (pt -7.62 0) (padstack 0))
+   (leg 2 (pt -5.08 0) (padstack 0))
+   (leg 3 (pt -2.54 0) (padstack 0))
+   (leg 4 (pt 0 0) (padstack 0))
+   (leg 5 (pt 2.54 0) (padstack 0))
+   (leg 6 (pt 5.08 0) (padstack 0))
+   (leg 7 (pt 7.62 0) (padstack 0))
+   (padstack 0
+    (hole 1.19)
+    (plated true)
+    (pad (layer TCOP) (round 1.9))
+    (pad (layer INNER) (round 1.9))
+    (pad (layer BCOP) (round 1.9))
+   )
+  )
+ )
+)

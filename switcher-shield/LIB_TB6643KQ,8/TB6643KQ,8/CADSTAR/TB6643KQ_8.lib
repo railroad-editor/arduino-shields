@@ -1,0 +1,15 @@
+.TB6643KQ_8 :1 ;Bi-CMOS Integrated Circuit Silicon Monolithic
+HSIP7-P-2.54A
+*STM IC
+*NGS
+*PLB 1="IN1" 2="IN2" 3="OUT1" 4="GND" 5="OUT2" 6="N.C." 7="VM"
+*MXP 7
+*DFN TB6643KQ_8
+~!DigiKey Part Number (TB6643KQ8-ND)
+~!Link DigiKey Price/Stock (https://www.digikey.co.uk/product-detail/en/toshiba-semiconductor-and-storage/TB6643KQ,8/TB6643KQ8-ND/3671295)
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (TB6643KQ,8)
+~!Link Datasheet (https://toshiba.semicon-storage.com/info/docget.jsp?did=11271&prodName=TB6643KQ)
+~!Height (-)
+TB6643KQ_8
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

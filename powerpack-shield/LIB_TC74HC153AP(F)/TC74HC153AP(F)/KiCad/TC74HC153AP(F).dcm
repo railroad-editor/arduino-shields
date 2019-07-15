@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC74HC153AP(F)
+D IC, 74 high speed CMOS logic, TC74HC153A Toshiba TC74HC153AP(F), Multiplexer Dual 4:1, 16-Pin PDIP
+K
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=10324&prodName=TC74HC153AP
+$ENDCMP
+#
+#End Doc Library

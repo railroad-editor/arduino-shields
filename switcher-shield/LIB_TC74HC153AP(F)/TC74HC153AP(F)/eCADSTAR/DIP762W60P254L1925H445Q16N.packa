@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TC74HC153AP_F_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "DIP762W60P254L1925H445Q16N")
+        (spec "System")
+    )
+)

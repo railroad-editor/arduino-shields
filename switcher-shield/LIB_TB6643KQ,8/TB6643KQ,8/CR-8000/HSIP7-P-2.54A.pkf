@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "HSIP7-P-2_54A"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "HSIP7-P-2_54A")
+        (spec "default")
+    )
+)

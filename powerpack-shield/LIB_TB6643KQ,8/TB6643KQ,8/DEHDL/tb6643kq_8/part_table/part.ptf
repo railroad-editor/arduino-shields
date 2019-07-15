@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TB6643KQ_8'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "DIGIKEY_PART_NUMBER", "DIGIKEY_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Toshiba", "TB6643KQ,8" (!) = "", "HSIP7-P-2.54A", "Other", "TB6643KQ8-ND", "https://www.digikey.co.uk/product-detail/en/toshiba-semiconductor-and-storage/TB6643KQ,8/TB6643KQ8-ND/3671295", "Bi-CMOS Integrated Circuit Silicon Monolithic", "https://toshiba.semicon-storage.com/info/docget.jsp?did=11271&prodName=TB6643KQ"
+END_PART
+
+END.

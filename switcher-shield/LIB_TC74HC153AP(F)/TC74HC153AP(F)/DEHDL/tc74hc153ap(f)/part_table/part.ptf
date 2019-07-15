@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TC74HC153AP(F)'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "TC74HC153AP(F)" (!) = "", "DIP762W60P254L1925H445Q16N", "Dual-In-Line Packages", "N/A", "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA", "5399563", "http://uk.rs-online.com/web/p/products/5399563", "IC, 74 high speed CMOS logic, TC74HC153A Toshiba TC74HC153AP(F), Multiplexer Dual 4:1, 16-Pin PDIP", "http://toshiba.semicon-storage.com/info/docget.jsp?did=10324&prodName=TC74HC153AP", "4.45 mm"
+END_PART
+
+END.

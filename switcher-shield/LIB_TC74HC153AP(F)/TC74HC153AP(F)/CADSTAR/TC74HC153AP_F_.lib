@@ -1,0 +1,18 @@
+.TC74HC153AP_F_ :1 ;IC, 74 high speed CMOS logic, TC74HC153A Toshiba TC74HC153AP(F), Multiplexer Dual 4:1, 16-Pin PDIP
+DIP762W60P254L1925H445Q16N
+*STM IC
+*NGS
+*PLB 1="1'G'" 2="B" 3="1C3" 4="1C2" 5="1C1" 6="1C0" 7="1Y" 8="GND" 9="2Y" 10="2C0" 11="2C1" 12="2C2" 13="2C3" 14="A" 15="2'G'" 16="VCC"
+*MXP 16
+*DFN TC74HC153AP_F_
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (TC74HC153AP(F))
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA)
+~!RS Part Number (5399563)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/5399563)
+~!Link Datasheet (http://toshiba.semicon-storage.com/info/docget.jsp?did=10324&prodName=TC74HC153AP)
+~!Height (4.45mm)
+~!3D_Model (TC74HC153AP(F))
+TC74HC153AP_F_
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

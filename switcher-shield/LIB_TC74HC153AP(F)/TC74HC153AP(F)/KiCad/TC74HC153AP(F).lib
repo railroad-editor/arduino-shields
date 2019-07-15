@@ -1,0 +1,39 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TC74HC153AP(F)
+#/658982/158529/2.43/16/4/Integrated Circuit
+DEF TC74HC153AP(F) IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "TC74HC153AP(F)" 850 200 50 H V L CNN
+F2 "DIP762W60P254L1925H445Q16N" 850 100 50 H I L CNN
+F3 "http://toshiba.semicon-storage.com/info/docget.jsp?did=10324&prodName=TC74HC153AP" 850 0 50 H I L CNN
+F4 "IC, 74 high speed CMOS logic, TC74HC153A Toshiba TC74HC153AP(F), Multiplexer Dual 4:1, 16-Pin PDIP" 850 -100 50 H I L CNN "Description"
+F5 "4.45" 850 -200 50 H I L CNN "Height"
+F6 "Toshiba" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TC74HC153AP(F)" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "N/A" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "5399563" 850 -700 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/5399563" 850 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X 1~G 1 0 0 200 R 50 50 0 0 B
+X B 2 0 -100 200 R 50 50 0 0 B
+X 1C3 3 0 -200 200 R 50 50 0 0 B
+X 1C2 4 0 -300 200 R 50 50 0 0 B
+X 1C1 5 0 -400 200 R 50 50 0 0 B
+X 1C0 6 0 -500 200 R 50 50 0 0 B
+X 1Y 7 0 -600 200 R 50 50 0 0 B
+X GND 8 0 -700 200 R 50 50 0 0 B
+X VCC 16 1000 0 200 L 50 50 0 0 B
+X 2~G 15 1000 -100 200 L 50 50 0 0 B
+X A 14 1000 -200 200 L 50 50 0 0 B
+X 2C3 13 1000 -300 200 L 50 50 0 0 B
+X 2C2 12 1000 -400 200 L 50 50 0 0 B
+X 2C1 11 1000 -500 200 L 50 50 0 0 B
+X 2C0 10 1000 -600 200 L 50 50 0 0 B
+X 2Y 9 1000 -700 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 800 100 800 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
