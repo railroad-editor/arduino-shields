@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name TB6643KQ)(type Legacy)(uri /Users/tozawa/Documents/KicadProjects/railroad-editor/powerpack-shield/LIB_TB6643KQ,8/TB6643KQ,8/KiCad/TB6643KQ_8.lib)(options "")(descr ""))
   (lib (name 74HC153AP)(type Legacy)(uri "/Users/tozawa/Documents/KicadProjects/railroad-editor/powerpack-shield/LIB_TC74HC153AP(F)/TC74HC153AP(F)/KiCad/TC74HC153AP(F).lib")(options "")(descr ""))
+  (lib (name powerpack-shield-rescue)(type Legacy)(uri ${KIPRJMOD}/powerpack-shield-rescue.lib)(options "")(descr ""))
 )
